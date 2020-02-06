@@ -1,0 +1,9 @@
+TRACE: 2020/02/05 16:06:48 source.go:289: Something happend [17cfaf94-cc0f-4ec3-9735-02d4eb0b1721]
+TRACE: 2020/02/05 16:06:48 dump.go:227: Something else happend [01052cbf-c6de-4a97-8f40-4c2f674ab855]
+     any_pointer               : 0xc000340060
+     any_attribute             : "attribute_value_A"
+     len(any_array)            : 2
+TRACE: 2020/02/05 16:06:49 dump.go:227: Something else happend [17cfaf94-cc0f-4ec3-9735-02d4eb0b1721]
+     any_pointer               : 0xc000120300
+     any_attribute             : "attribute_value_B"
+     len(any_array)            : 5
